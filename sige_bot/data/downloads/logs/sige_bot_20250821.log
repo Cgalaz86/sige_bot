@@ -1,0 +1,14 @@
+2025-08-21 16:41:08,234 - SIGE_Bot - INFO - 🚀 Iniciando navegador Chrome...
+2025-08-21 16:41:09,435 - SIGE_Bot - INFO - Intento 1: navegando al login...
+2025-08-21 16:41:14,015 - SIGE_Bot - INFO - ✅ Login exitoso.
+2025-08-21 16:41:17,069 - SIGE_Bot - INFO - ✔ No hubo popup inicial.
+2025-08-21 16:41:17,072 - SIGE_Bot - INFO - 🔄 Iniciando módulo: Matrícula
+2025-08-21 16:41:17,072 - SIGE_Bot - INFO - ➡ Navegando a 'Adm. Matrícula'...
+2025-08-21 16:41:17,739 - SIGE_Bot - INFO - Año seleccionado: 2025
+2025-08-21 16:41:17,790 - SIGE_Bot - INFO - ⚠ Alerta detectada:  va a exportar la nómina de todo su establecimiento 
+ ¿Desea Continuar?.
+2025-08-21 16:41:17,792 - SIGE_Bot - INFO - ✔ Alerta cerrada automáticamente.
+2025-08-21 16:41:18,794 - SIGE_Bot - INFO - ✅ 📥 Matrícula exportada: matricula_15600_2025_20250821_1.xls
+2025-08-21 16:41:18,795 - SIGE_Bot - INFO - ✅ ✅ Módulo Matrícula completado exitosamente
+2025-08-21 16:41:18,796 - SIGE_Bot - INFO - ✅ ✅ Proceso completado exitosamente. 1/1 módulos ejecutados.
+2025-08-21 16:41:21,139 - SIGE_Bot - INFO - 🔒 Cerrando navegador...
